@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@hmscore/hms-jsb-account": "^6.5.300"
+  }
+}
